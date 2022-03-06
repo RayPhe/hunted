@@ -257,7 +257,7 @@ video{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 50px;
 }
-footer{
+footer, .socials-2{
     position: relative;
     text-align: center;
     bottom: 0;
@@ -282,7 +282,6 @@ footer h1{
     padding-top: 10px;
 }
 .facebook, .instagram{
-    background-color: white;
     border-radius: 35px;
     border: transparent;
 }
