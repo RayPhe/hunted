@@ -124,6 +124,22 @@ video{
    border-color: white;
    opacity: 1;
 }
+.tickets ul a{
+   list-style-type: none;
+   text-decoration: none;
+   background-color:rgb(220, 10, 10);
+   font-family: sans-serif;
+   color: white;
+   font-size: 40px;
+   padding: 5px;
+   border-radius: 10px;
+   border: solid 10px rgb(220, 10, 10);
+}
+.tickets ul a:hover{
+   transition: ease-in 0.3s;
+   border-color: white;
+   opacity: 1;
+}
 .row-2{
     position: relative;
     background-color: rgb(10, 10, 10, 0.9);
